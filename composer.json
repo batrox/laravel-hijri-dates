@@ -1,5 +1,5 @@
 {
-    "name": "geniusts/laravel-hijri-dates",
+    "name": "batrox/laravel-hijri-dates",
     "description": "Hijri dates package for Laravel",
     "type": "library",
     "require": {
